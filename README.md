@@ -15,5 +15,5 @@
 
 - Me encantaria seguir la Licenciatura en Ciberseguridad luego de terminar esta tecnicatura.
 
+![Foto de Campus](./Foto-Campus.jpg)
 
-(./Foto-Campus.jpg)
